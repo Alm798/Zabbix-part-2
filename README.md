@@ -134,7 +134,7 @@
 ### <ins>SCREENSHORTS</ins>
 
 
-![items]()
+![items](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_1.png)
 
 ![items_CPU]()
 
