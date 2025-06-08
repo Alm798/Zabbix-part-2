@@ -136,17 +136,13 @@
 
 ![items](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_1.png)
 
-![items_CPU]()
+![items_CPU](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_2.png)
 
-![items_RAM]()
+![items_RAM](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_3.png)
 
-![Latest Data_server]()
+![Latest Data_server](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_4.png)
 
-![Latest Data_agent]()
-
-![graph_server]()
-
-![graph_agent]()
+![graph_agent](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_5.png)
 
 ---
 
@@ -229,17 +225,13 @@
 
 ### <ins>SCREENSHORTS</ins>
 
-![monitoring_hosts]()
+![monitoring_hosts](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_6.png)
 
-![configuration_hosts](https://github.com/Ivan-Shkutov/smon-homeworks-8-03/blob/main/img/2.2.png)
+![configuration_hosts](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_10.png)
 
-![ShkutovIV-1]()
+![Host](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_7.png)
 
-![ShkutovIV-2]()
-
-![apply_and_check]()
-
-![Latest Data]()
+![Latest Data](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_8.png)
 
 
 ---
@@ -264,7 +256,7 @@
 ### My_dashboard выводит показания CPU и GPU hosts ShkutovIV-1 (192.168.1.10) и ShkutovIV-2 (192.168.1.5)
 
 
-![My_dashboard]()
+![My_dashboard](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_9.png)
 
 
 ---
