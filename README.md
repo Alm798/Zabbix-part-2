@@ -227,7 +227,7 @@
 
 ![monitoring_hosts](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_6.png)
 
-![configuration_hosts](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_10.png)
+![configuration_hosts](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_11.png)
 
 ![Host](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_7.png)
 
