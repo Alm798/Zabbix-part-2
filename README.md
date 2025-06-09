@@ -133,7 +133,7 @@
 
 ### <ins>SCREENSHORTS</ins>
 
-
+![items_template](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_12.png)
 ![items](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_1.png)
 
 ![items_CPU](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_2.png)
