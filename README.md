@@ -256,7 +256,7 @@
 ### My_dashboard выводит показания CPU и GPU hosts ShkutovIV-1 (192.168.1.10) и ShkutovIV-2 (192.168.1.5)
 
 
-![My_dashboard](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_9.png)
+![My_dashboard](https://github.com/Alm798/Zabbix-part-2/blob/main/Screenshot_13.png)
 
 
 ---
